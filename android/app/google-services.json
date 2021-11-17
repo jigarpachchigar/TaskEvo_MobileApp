@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "255398935",
+    "firebase_url": "https://taskmanagment-6fbc3-default-rtdb.firebaseio.com",
+    "project_id": "taskmanagment-6fbc3",
+    "storage_bucket": "taskmanagment-6fbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255398935:android:1afa5bde01bc7246077852",
+        "android_client_info": {
+          "package_name": "com.project_management_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255398935-chtfibukpivamsdpshr03mrq677pfm59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDmAJ7Xe6iXwrsMxqcbqx9lNAAyrX_Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255398935-chtfibukpivamsdpshr03mrq677pfm59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255398935-hsoqusu8c2hi581a40si06c1s462g5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.project-management-mobile-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255398935:android:9a4b944986e6ba0a077852",
+        "android_client_info": {
+          "package_name": "com.taskmangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255398935-chtfibukpivamsdpshr03mrq677pfm59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDmAJ7Xe6iXwrsMxqcbqx9lNAAyrX_Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255398935-chtfibukpivamsdpshr03mrq677pfm59.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255398935-hsoqusu8c2hi581a40si06c1s462g5ba.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.project-management-mobile-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
